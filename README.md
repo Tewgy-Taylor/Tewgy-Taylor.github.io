@@ -1,4 +1,4 @@
-Guides used in the creation of MMBN Checklist (yes they're all from gamefaqs:  
+Guides used in the creation of MMBN Checklist (yes they're all from gamefaqs):  
 https://gamefaqs.gamespot.com/gba/457634-mega-man-battle-network/faqs/49840/introduction  
 https://gamefaqs.gamespot.com/gba/561218-mega-man-battle-network-2/faqs/40971  
 https://gamefaqs.gamespot.com/gba/915457-mega-man-battle-network-3-blue-version/faqs/24349  
