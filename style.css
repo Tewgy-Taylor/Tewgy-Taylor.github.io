@@ -2,3 +2,18 @@ table, th, td {
 		border: 1px solid black;
 		border-collapse: collapse;
 		}
+span.template_stack {
+
+	writing-mode: vertical-rl;
+	text-orientation: upright;
+	font-size: 9px;
+	position: relative;
+	top: 4px;
+}
+
+html * {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
