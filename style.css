@@ -6,9 +6,9 @@ span.template_stack {
 
 	writing-mode: vertical-rl;
 	text-orientation: upright;
-	font-size: 9px;
+	font-size: 10px;
 	position: relative;
-	top: 4px;
+	top: 5px;
 }
 
 html * {
