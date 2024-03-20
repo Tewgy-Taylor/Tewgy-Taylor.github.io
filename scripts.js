@@ -5,7 +5,7 @@ function confirmFunction(){
 		confirmed = true
 	}
 	if(confirmed == true){
-		let checkboxes = document.getElementsByName("Uncheck");
+		let checkboxes = document.getElementsByClassName("Uncheck");
 		for (let checkbox of checkboxes){
 			checkbox.checked = false;
 		}
