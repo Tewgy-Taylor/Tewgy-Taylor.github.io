@@ -1,15 +1,14 @@
-var confirmed = false;
+let confirmed = false;
 
 function confirmFunction(){
 	if(confirm("This will reset EVERYTHING!!!") == true){
 		confirmed = true
 	}
 	if(confirmed == true){
-		var checkboxes = document.getElementsByName("Uncheck");
-		for (var checkbox of checkboxes){
+		let checkboxes = document.getElementsByName("Uncheck");
+		for (let checkbox of checkboxes){
 			checkbox.checked = false;
 		}
 		confirmed = false
 	}
 }
-
